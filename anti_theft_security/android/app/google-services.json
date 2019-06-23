@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058941502043",
+    "firebase_url": "https://anti-theft-38a62.firebaseio.com",
+    "project_id": "anti-theft-38a62",
+    "storage_bucket": "anti-theft-38a62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058941502043:android:e49d228f6d1204fb",
+        "android_client_info": {
+          "package_name": "com.example.anti_theft_security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058941502043-b1is4nqqc6q7pl6lfpqi3c81m3d72mda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anti_theft_security",
+            "certificate_hash": "e1ddbc5517f439d516e6d1cc2e9f61f62f75b1d2"
+          }
+        },
+        {
+          "client_id": "1058941502043-77op5ut59bm7kiotsbvv4fcnqb0t8aaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5v--dcHO7B5N4lojRrC_qXIX999nkIxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058941502043-77op5ut59bm7kiotsbvv4fcnqb0t8aaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
